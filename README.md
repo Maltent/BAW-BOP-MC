@@ -20,12 +20,12 @@ Modpack for the BAW BOP Minecraft Server. (heavily wip)
 /clientOnly - mods for only players  
 /clientFancy - mods if your computer can handle it  
 
-## [Releases setup + combinations]
-serverMods.zip - zip folder for the server (not technically needed but maybe it would be nice to have?)  
+## [Releases setup + combinations]  
+- serverMods.zip - zip folder for the server (not technically needed but maybe it would be nice to have?)  
   - base + serverOnly  
-client-fast.zip - basic modpack for clients  
+- client-fast.zip - basic modpack for clients  
   - base + clientOnly  
-client-fancy.zip - modpack installation for clients with beefier computers  
+- client-fancy.zip - modpack installation for clients with beefier computers  
   - base + clientOnly + clientFancy  
 
 
